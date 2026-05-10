@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "installed": {
+    "searxng-search": {
+      "source": "official",
+      "identifier": "official/research/searxng-search",
+      "trust_level": "builtin",
+      "scan_verdict": "caution",
+      "content_hash": "sha256:9f8fe3304fd44d5d",
+      "install_path": "research/searxng-search",
+      "files": [
+        "SKILL.md",
+        "scripts/searxng.sh"
+      ],
+      "metadata": {},
+      "installed_at": "2026-05-10T08:39:53.204587+00:00",
+      "updated_at": "2026-05-10T08:39:53.204601+00:00"
+    }
+  }
+}

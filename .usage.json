@@ -1,0 +1,54 @@
+{
+  "a-share-market": {
+    "archived_at": null,
+    "created_at": "2026-05-09T19:58:31.896559+00:00",
+    "created_by": "agent",
+    "last_patched_at": null,
+    "last_used_at": "2026-05-10T10:39:29.536970+00:00",
+    "last_viewed_at": "2026-05-10T10:39:29.530005+00:00",
+    "patch_count": 0,
+    "pinned": false,
+    "state": "active",
+    "use_count": 4,
+    "view_count": 4
+  },
+  "hermes-migrate-to-mac": {
+    "archived_at": null,
+    "created_at": "2026-05-10T10:59:43.713775+00:00",
+    "created_by": null,
+    "last_patched_at": null,
+    "last_used_at": "2026-05-10T10:59:43.739996+00:00",
+    "last_viewed_at": "2026-05-10T10:59:43.713808+00:00",
+    "patch_count": 0,
+    "pinned": false,
+    "state": "active",
+    "use_count": 1,
+    "view_count": 1
+  },
+  "hermes-update": {
+    "archived_at": null,
+    "created_at": "2026-05-09T12:57:57.486098+00:00",
+    "created_by": "agent",
+    "last_patched_at": null,
+    "last_used_at": null,
+    "last_viewed_at": null,
+    "patch_count": 0,
+    "pinned": false,
+    "state": "active",
+    "use_count": 0,
+    "view_count": 0
+  },
+  "qqbot-debugging": {
+    "archived_at": null,
+    "created_at": "2026-05-09T14:09:36.855685+00:00",
+    "created_by": "agent",
+    "last_patched_at": null,
+    "last_used_at": "2026-05-09T20:50:54.908971+00:00",
+    "last_viewed_at": "2026-05-09T20:50:54.903063+00:00",
+    "patch_count": 0,
+    "pinned": false,
+    "state": "active",
+    "use_count": 22,
+    "view_count": 22
+  }
+}
